@@ -1,0 +1,19 @@
+﻿Scenario,GCM,Crop,Query,PC
+Ref_gCC,CCSM4,Staples,Expenditure,3.984157536
+Ref_gCC,GFDL,Staples,Expenditure,2.288208591
+Ref_gCC,HADGEM_ES,Staples,Expenditure,3.54345859
+Ref_gCC,CCSM4,NonStaples,Expenditure,1.189716544
+Ref_gCC,GFDL,NonStaples,Expenditure,1.10212813
+Ref_gCC,HADGEM_ES,NonStaples,Expenditure,1.391039516
+Ref_gCC,CCSM4,Staples,Food Price,3.987815258
+Ref_gCC,GFDL,Staples,Food Price,2.291806657
+Ref_gCC,HADGEM_ES,Staples,Food Price,3.547910227
+Ref_gCC,CCSM4,NonStaples,Food Price,1.321740138
+Ref_gCC,GFDL,NonStaples,Food Price,1.216947442
+Ref_gCC,HADGEM_ES,NonStaples,Food Price,1.539535097
+Ref_gCC,CCSM4,Staples,Consumption,-0.003517452
+Ref_gCC,GFDL,Staples,Consumption,-0.003517452
+Ref_gCC,HADGEM_ES,Staples,Consumption,-0.004299109
+Ref_gCC,CCSM4,NonStaples,Consumption,-0.130301349
+Ref_gCC,GFDL,NonStaples,Consumption,-0.113438821
+Ref_gCC,HADGEM_ES,NonStaples,Consumption,-0.146244102

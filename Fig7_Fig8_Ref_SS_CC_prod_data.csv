@@ -1,0 +1,55 @@
+﻿Scenario,GCM,Crop,Query,PC
+Ref_gCC,CCSM4,Rice,Domestic Production,-6.175469782
+Ref_gCC,GFDL,Rice,Domestic Production,-7.281633202
+Ref_gCC,HADGEM_ES,Rice,Domestic Production,-7.2897188
+SS_gCC,CCSM4,Rice,Domestic Production,-6.487599886
+SS_gCC,GFDL,Rice,Domestic Production,-7.247123999
+SS_gCC,HADGEM_ES,Rice,Domestic Production,-7.490293491
+Ref_gCC,CCSM4,Rice,Producer Price,10.55483532
+Ref_gCC,GFDL,Rice,Producer Price,10.11953919
+Ref_gCC,HADGEM_ES,Rice,Producer Price,11.54492062
+SS_gCC,CCSM4,Rice,Producer Price,11.56712079
+SS_gCC,GFDL,Rice,Producer Price,11.41658519
+SS_gCC,HADGEM_ES,Rice,Producer Price,12.77334379
+Ref_gCC,CCSM4,Rice,Revenue,3.727554869
+Ref_gCC,GFDL,Rice,Revenue,2.101038263
+Ref_gCC,HADGEM_ES,Rice,Revenue,3.413609574
+SS_gCC,CCSM4,Rice,Revenue,4.329092385
+SS_gCC,GFDL,Rice,Revenue,3.342087106
+SS_gCC,HADGEM_ES,Rice,Revenue,4.326289356
+Ref_gCC,CCSM4,Wheat,Domestic Production,2.163744985
+Ref_gCC,GFDL,Wheat,Domestic Production,0.69066426
+Ref_gCC,HADGEM_ES,Wheat,Domestic Production,3.044267169
+SS_gCC,CCSM4,Wheat,Domestic Production,3.257803208
+SS_gCC,GFDL,Wheat,Domestic Production,5.611167021
+SS_gCC,HADGEM_ES,Wheat,Domestic Production,5.445521701
+Ref_gCC,CCSM4,Wheat,Producer Price,4.400002854
+Ref_gCC,GFDL,Wheat,Producer Price,3.361182657
+Ref_gCC,HADGEM_ES,Wheat,Producer Price,4.259448198
+SS_gCC,CCSM4,Wheat,Producer Price,5.842966332
+SS_gCC,GFDL,Wheat,Producer Price,6.445655768
+SS_gCC,HADGEM_ES,Wheat,Producer Price,6.239061856
+Ref_gCC,CCSM4,Wheat,Revenue,6.65895268
+Ref_gCC,GFDL,Wheat,Revenue,4.075061404
+Ref_gCC,HADGEM_ES,Wheat,Revenue,7.43338435
+SS_gCC,CCSM4,Wheat,Revenue,9.291121885
+SS_gCC,GFDL,Wheat,Revenue,12.4184993
+SS_gCC,HADGEM_ES,Wheat,Revenue,12.02433302
+Ref_gCC,CCSM4,Soybeans,Domestic Production,-11.76250639
+Ref_gCC,GFDL,Soybeans,Domestic Production,-11.20426789
+Ref_gCC,HADGEM_ES,Soybeans,Domestic Production,-12.81275838
+SS_gCC,CCSM4,Soybeans,Domestic Production,-5.767406176
+SS_gCC,GFDL,Soybeans,Domestic Production,-5.515112885
+SS_gCC,HADGEM_ES,Soybeans,Domestic Production,-6.158010069
+Ref_gCC,CCSM4,Soybeans,Producer Price,7.47521644
+Ref_gCC,GFDL,Soybeans,Producer Price,7.363714204
+Ref_gCC,HADGEM_ES,Soybeans,Producer Price,7.804141693
+SS_gCC,CCSM4,Soybeans,Producer Price,12.23814354
+SS_gCC,GFDL,Soybeans,Producer Price,12.20110512
+SS_gCC,HADGEM_ES,Soybeans,Producer Price,13.15339695
+Ref_gCC,CCSM4,Soybeans,Revenue,-5.166562757
+Ref_gCC,GFDL,Soybeans,Revenue,-4.665603953
+Ref_gCC,HADGEM_ES,Soybeans,Revenue,-6.008542509
+SS_gCC,CCSM4,Soybeans,Revenue,5.764913921
+SS_gCC,GFDL,Soybeans,Revenue,6.013087519
+SS_gCC,HADGEM_ES,Soybeans,Revenue,6.185399369

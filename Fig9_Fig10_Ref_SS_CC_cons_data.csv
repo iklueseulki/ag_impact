@@ -1,0 +1,73 @@
+﻿Scenario,RCP,GCM,Crop,Query,PC
+Ref_gCC,RCP85,CCSM4,Staples,Consumption,-0.003517452
+Ref_gCC,RCP85,GFDL,Staples,Consumption,-0.003517452
+Ref_gCC,RCP85,HADGEM_ES,Staples,Consumption,-0.004299109
+SS_gCC,RCP85,CCSM4,Staples,Consumption,-0.004690322
+SS_gCC,RCP85,GFDL,Staples,Consumption,-0.004690322
+SS_gCC,RCP85,HADGEM_ES,Staples,Consumption,-0.005472042
+Ref_gCC,RCP85,CCSM4,Staples,Food Price,3.987815258
+Ref_gCC,RCP85,GFDL,Staples,Food Price,2.291806657
+Ref_gCC,RCP85,HADGEM_ES,Staples,Food Price,3.547910227
+SS_gCC,RCP85,CCSM4,Staples,Food Price,4.716356709
+SS_gCC,RCP85,GFDL,Staples,Food Price,3.690430066
+SS_gCC,RCP85,HADGEM_ES,Staples,Food Price,4.618687847
+Ref_gCC,RCP85,CCSM4,Staples,Expenditure,3.984157536
+Ref_gCC,RCP85,GFDL,Staples,Expenditure,2.288208591
+Ref_gCC,RCP85,HADGEM_ES,Staples,Expenditure,3.54345859
+SS_gCC,RCP85,CCSM4,Staples,Expenditure,4.711445175
+SS_gCC,RCP85,GFDL,Staples,Expenditure,3.685566651
+SS_gCC,RCP85,HADGEM_ES,Staples,Expenditure,4.612963069
+Ref_gCC,RCP85,CCSM4,NonStaples,Consumption,-0.130301349
+Ref_gCC,RCP85,GFDL,NonStaples,Consumption,-0.113438821
+Ref_gCC,RCP85,HADGEM_ES,NonStaples,Consumption,-0.146244102
+SS_gCC,RCP85,CCSM4,NonStaples,Consumption,-0.166990602
+SS_gCC,RCP85,GFDL,NonStaples,Consumption,-0.155304335
+SS_gCC,RCP85,HADGEM_ES,NonStaples,Consumption,-0.186672735
+Ref_gCC,RCP85,CCSM4,NonStaples,Food Price,1.321740138
+Ref_gCC,RCP85,GFDL,NonStaples,Food Price,1.216947442
+Ref_gCC,RCP85,HADGEM_ES,NonStaples,Food Price,1.539535097
+SS_gCC,RCP85,CCSM4,NonStaples,Food Price,1.706896471
+SS_gCC,RCP85,GFDL,NonStaples,Food Price,1.626764886
+SS_gCC,RCP85,HADGEM_ES,NonStaples,Food Price,1.947994133
+Ref_gCC,RCP85,CCSM4,NonStaples,Expenditure,1.189716544
+Ref_gCC,RCP85,GFDL,NonStaples,Expenditure,1.10212813
+Ref_gCC,RCP85,HADGEM_ES,NonStaples,Expenditure,1.391039516
+SS_gCC,RCP85,CCSM4,NonStaples,Expenditure,1.537055512
+SS_gCC,RCP85,GFDL,NonStaples,Expenditure,1.468934115
+SS_gCC,RCP85,HADGEM_ES,NonStaples,Expenditure,1.757685024
+Ref_gCC,RCP45,CCSM4,Staples,Expenditure,1.396576072
+Ref_gCC,RCP45,GFDL,Staples,Expenditure,0.901526991
+Ref_gCC,RCP45,HADGEM_ES,Staples,Expenditure,3.005335507
+Ref_gCC,RCP45,CCSM4,NonStaples,Expenditure,0.587496411
+Ref_gCC,RCP45,GFDL,NonStaples,Expenditure,0.53601866
+Ref_gCC,RCP45,HADGEM_ES,NonStaples,Expenditure,1.021193326
+Ref_gCC,RCP45,CCSM4,Staples,Food Price,1.398557542
+Ref_gCC,RCP45,GFDL,Staples,Food Price,0.903104421
+Ref_gCC,RCP45,HADGEM_ES,Staples,Food Price,3.008556198
+Ref_gCC,RCP45,CCSM4,NonStaples,Food Price,0.649521551
+Ref_gCC,RCP45,GFDL,NonStaples,Food Price,0.590605842
+Ref_gCC,RCP45,HADGEM_ES,NonStaples,Food Price,1.132195745
+Ref_gCC,RCP45,CCSM4,Staples,Consumption,-0.00195414
+Ref_gCC,RCP45,GFDL,Staples,Consumption,-0.001563312
+Ref_gCC,RCP45,HADGEM_ES,Staples,Consumption,-0.003126624
+Ref_gCC,RCP45,CCSM4,NonStaples,Consumption,-0.061624873
+Ref_gCC,RCP45,GFDL,NonStaples,Consumption,-0.054266679
+Ref_gCC,RCP45,HADGEM_ES,NonStaples,Consumption,-0.109759724
+SS_gCC,RCP45,CCSM4,Staples,Expenditure,1.843224671
+SS_gCC,RCP45,GFDL,Staples,Expenditure,1.539730667
+SS_gCC,RCP45,HADGEM_ES,Staples,Expenditure,3.646421783
+SS_gCC,RCP45,CCSM4,NonStaples,Expenditure,0.663604256
+SS_gCC,RCP45,GFDL,NonStaples,Expenditure,0.586343311
+SS_gCC,RCP45,HADGEM_ES,NonStaples,Expenditure,1.363124056
+SS_gCC,RCP45,CCSM4,Staples,Food Price,1.845215033
+SS_gCC,RCP45,GFDL,Staples,Food Price,1.541715098
+SS_gCC,RCP45,HADGEM_ES,Staples,Food Price,3.650878213
+SS_gCC,RCP45,CCSM4,NonStaples,Food Price,0.735476736
+SS_gCC,RCP45,GFDL,NonStaples,Food Price,0.64948758
+SS_gCC,RCP45,HADGEM_ES,NonStaples,Food Price,1.510784962
+SS_gCC,RCP45,CCSM4,Staples,Consumption,-0.001954301
+SS_gCC,RCP45,GFDL,Staples,Consumption,-0.001954301
+SS_gCC,RCP45,HADGEM_ES,Staples,Consumption,-0.004299461
+SS_gCC,RCP45,CCSM4,NonStaples,Consumption,-0.071347734
+SS_gCC,RCP45,GFDL,NonStaples,Consumption,-0.062736801
+SS_gCC,RCP45,HADGEM_ES,NonStaples,Consumption,-0.145463268

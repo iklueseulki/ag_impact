@@ -1,0 +1,5 @@
+﻿Scenario,Crop,Query,value
+Ref,Staples,Expenditure,0.193
+SS,Staples,Expenditure,0.214
+Ref,NonStaples,Expenditure,0.911
+SS,NonStaples,Expenditure,0.936

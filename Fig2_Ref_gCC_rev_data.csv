@@ -1,0 +1,28 @@
+﻿Scenario,GCM,Crop,Query,PC
+Ref_gCC,CCSM4,Rice,Revenue,3.727554869
+Ref_gCC,GFDL,Rice,Revenue,2.101038263
+Ref_gCC,HADGEM_ES,Rice,Revenue,3.413609574
+Ref_gCC,CCSM4,Wheat,Revenue,6.65895268
+Ref_gCC,GFDL,Wheat,Revenue,4.075061404
+Ref_gCC,HADGEM_ES,Wheat,Revenue,7.43338435
+Ref_gCC,CCSM4,Soybeans,Revenue,-5.166562757
+Ref_gCC,GFDL,Soybeans,Revenue,-4.665603953
+Ref_gCC,HADGEM_ES,Soybeans,Revenue,-6.008542509
+Ref_gCC,CCSM4,Rice,Domestic Production,-6.175469782
+Ref_gCC,GFDL,Rice,Domestic Production,-7.281633202
+Ref_gCC,HADGEM_ES,Rice,Domestic Production,-7.2897188
+Ref_gCC,CCSM4,Wheat,Domestic Production,2.163744985
+Ref_gCC,GFDL,Wheat,Domestic Production,0.69066426
+Ref_gCC,HADGEM_ES,Wheat,Domestic Production,3.044267169
+Ref_gCC,CCSM4,Soybeans,Domestic Production,-11.76250639
+Ref_gCC,GFDL,Soybeans,Domestic Production,-11.20426789
+Ref_gCC,HADGEM_ES,Soybeans,Domestic Production,-12.81275838
+Ref_gCC,CCSM4,Rice,Producer Price,10.55483532
+Ref_gCC,GFDL,Rice,Producer Price,10.11953919
+Ref_gCC,HADGEM_ES,Rice,Producer Price,11.54492062
+Ref_gCC,CCSM4,Wheat,Producer Price,4.400002854
+Ref_gCC,GFDL,Wheat,Producer Price,3.361182657
+Ref_gCC,HADGEM_ES,Wheat,Producer Price,4.259448198
+Ref_gCC,CCSM4,Soybeans,Producer Price,7.47521644
+Ref_gCC,GFDL,Soybeans,Producer Price,7.363714204
+Ref_gCC,HADGEM_ES,Soybeans,Producer Price,7.804141693

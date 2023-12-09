@@ -1,0 +1,13 @@
+﻿Scenario,Crop,Query,value
+Ref,Rice,Producer,9628
+Ref,Rice,Credit,0
+SS,Rice,Producer,10646
+SS,Rice,Credit,0
+Ref,Wheat,Producer,26
+Ref,Wheat,Credit,0
+SS,Wheat,Producer,84
+SS,Wheat,Credit,141
+Ref,Soybeans,Producer,420
+Ref,Soybeans,Credit,0
+SS,Soybeans,Producer,1034
+SS,Soybeans,Credit,693
